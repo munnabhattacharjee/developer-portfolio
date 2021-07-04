@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-section{
+.flexible-container{
     display: flex;
 }
 
@@ -26,7 +26,7 @@ h1{
     font-weight: 600;
     border-radius: 5px;
 }
-.back-image1{
+.back-image{
     width: 90%;
 }
 .intro-text{
@@ -35,4 +35,12 @@ h1{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-text{
+    text-align: justify;
+}
+.mid-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
