@@ -78,3 +78,11 @@ h1{
     margin-bottom: 2%;
     font-weight: 600;
 }
+hr{
+    width: 50%;
+    height: 2px;
+    color: salmon;
+    background-color: salmon;
+    margin-bottom: 5%;
+    
+}
